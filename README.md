@@ -2,7 +2,7 @@
 STM32F103C8 Bootloader: Simple firmware updater via UART. Supports external programming and customizable command protocol.
 
 ## Tools used:
-1- StTM32 CubeMX
+1- STTM32 CubeMX
 2- Keil uVision5 IDE
 3- HxD
 4- STM32 ST-LINK Utility
