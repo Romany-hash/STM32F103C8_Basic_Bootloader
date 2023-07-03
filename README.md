@@ -26,26 +26,7 @@ Please note that this is a basic bootloader implementation and may require modif
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
  ## Commands and Usage
-STM32F103 Custom Bootloader
-==============================
 
-Which command you need to send to the bootloader:
-
-1. `CBL_GET_VER_CMD` --> 1
-2. `CBL_GET_HELP_CMD` --> 2
-3. `CBL_GET_CID_CMD` --> 3
-4. `CBL_GET_RDP_STATUS_CMD` --> 4
-5. `CBL_GO_TO_ADDR_CMD` --> 5
-6. `CBL_FLASH_ERASE_CMD` --> 6
-7. `CBL_MEM_WRITE_CMD` --> 7
-8. `CBL_ED_W_PROTECT_CMD` --> 8
-9. `CBL_MEM_READ_CMD` --> 9
-10. `CBL_READ_SECTOR_STATUS_CMD` --> 10
-11. `CBL_OTP_READ_CMD` --> 11
-12. `CBL_CHANGE_ROP_Level_CMD` --> 12
-
-Implemented Functions:
-----------------------
 STM32F103 Custom Bootloader
 ==============================
 
